@@ -4,6 +4,13 @@ body {
    background-size: cover;
  }
 
+ h1 {
+   font-family: 'Josefin Sans', sans-serif;
+   color: white;
+   display: flex;
+   justify-content: center;
+ }
+
  .container {
   position: absolute;
   display: flex;
@@ -17,3 +24,4 @@ body {
 .elements {
   justify-content: center;
 }
+

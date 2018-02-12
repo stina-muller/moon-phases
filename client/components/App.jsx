@@ -14,7 +14,7 @@ const App = () => {
     <Router>
       <div>
       <Route exact path='/' component={Home} />  
-      <Route path='/fullmoon' component={FullMoon} />
+      <Route path='/full' component={FullMoon} />
       <Route path='/newmoon' component={NewMoon} />
       </div>
     </Router>  

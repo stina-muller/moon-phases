@@ -12,7 +12,7 @@ class FullMoon extends React.Component {
         <div className="elements">
           
           <div className="title"><h1>Full Moon</h1></div>
-          <img src="./images/full-moon.png" width="200" height="200"/></div>
+          <img src="./images/full-moon.png" width="300" height="300"/></div>
         
         <div className="elements">
        
